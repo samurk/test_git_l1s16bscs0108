@@ -1,1 +1,3 @@
 "Name: Sami-Ur-Rehman Khan" 
+Email : sami.urk@ucp.edu.pk
+Faculty : Information Technology
